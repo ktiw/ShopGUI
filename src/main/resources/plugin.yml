@@ -1,0 +1,12 @@
+name: ShopPlugin
+version: '1.0'
+main: kyrla.ShopPlugin
+api-version: '1.20'
+description: Плагин на экономику
+commands:
+  shop:
+    description: Магазин с одним товаром
+  mymoney:
+    description: Узнать свой баланс
+  buydiamond:
+    description: Покупка алмаза за 50

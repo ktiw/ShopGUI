@@ -1,0 +1,8 @@
+# Настройки магазина
+prices:
+  diamond: 50
+  gold: 100
+
+messages:
+  success: "&aПокупка успешна! Списано: %price%$"
+  no-money: "&cУ вас недостаточно средств!"
